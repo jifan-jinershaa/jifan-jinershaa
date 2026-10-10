@@ -7,7 +7,21 @@
 </div>
 
 <br/>
+<div align="center">
 
+  <a href="https://www.linkedin.com/in/jifan-jinersha-j-c-9261a3324">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:jifanjinesha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/jifan-jinershaa">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <br/>
 ## 👋 About Me
 
 I'm a Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning** at **Thiagarajar College of Engineering** (2024–2028).
