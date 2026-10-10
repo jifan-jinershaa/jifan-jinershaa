@@ -133,7 +133,7 @@ I'm passionate about exploring intelligent systems, building practical software,
 
 When I'm not coding, you'll probably find me enjoying music, drawing, exploring nature, dancing, playing tennis, or discovering new ideas.
 
-🎵 Music · 🎨 Drawing · 🌿 Nature · 💃 Dance · 🎾 Tennis · 💡 Creativity
+🎵 Music · 🎨 Drawing · 🌿 Nature · 💃 Dance ·💡 Creativity
 
 I believe creativity and curiosity are just as important as technical skills.
 
