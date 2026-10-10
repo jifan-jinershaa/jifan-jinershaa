@@ -1,4 +1,8 @@
-
+<div align="center">
+  <a href="banner.png">
+    <img src="banner.png" width="100%"/>
+  </a>
+</div>
 <!-- ================= CONTACT LINKS ================= -->
 
 <div align="center">
