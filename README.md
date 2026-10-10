@@ -1,67 +1,44 @@
-<div align="center">
-  <a href="banner.png">
-    <img src="banner.png" width="100%"/>
-  </a>
-</div>
-
-<!-- ================= CONTACT ICONS ================= -->
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jifan-jinersha-j-c-9261a3324">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:jifanjinesha@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Email"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/jifan-jinershaa">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="30" alt="GitHub"/>
-</a>
+  <!-- Profile Banner -->
+  <img src="./banner.png"/>
 
 </div>
 
----
+<br/>
 
-## 👩‍💻 About Me
+## 👋 About Me
 
-I'm a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at Thiagarajar College of Engineering.
+I'm a Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning** at **Thiagarajar College of Engineering** (2024–2028).
 
-I enjoy exploring how technology works, experimenting with new ideas, and developing practical solutions to real-world problems. I'm especially interested in intelligent systems, computer vision, and software development.
+I'm interested in building intelligent systems, exploring computer vision, developing full-stack applications, and using data to solve real-world problems.
 
-I believe in learning by building, improving through experimentation, and staying curious about what's possible.
-
-- 🎓 B.E. CSE (AI & ML), 2024–2028
-- 🧠 Exploring Artificial Intelligence and Machine Learning
-- 💻 Developing my Full-Stack Web Development skills
-- 🔍 Interested in problem-solving and intelligent applications
-- 🌱 Always learning something new
+- 🎓 B.E. Computer Science and Engineering — AI & ML
+- 🤖 Interested in AI/ML engineering and intelligent applications
+- 💻 Exploring full-stack development and modern web technologies
+- 🔍 Learning by building projects and experimenting with new ideas
 
 ---
 
-## 🎯 Professional Interests
+## 💡 Professional Interests
 
-<div align="center">
-
-![AI](https://img.shields.io/badge/AI%2FML-Engineering-8B5CF6?style=flat-square)
-![Full Stack](https://img.shields.io/badge/Full--Stack-Development-7C3AED?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer-Vision-A78BFA?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep-Learning-C4B5FD?style=flat-square)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Exploration-6D28D9?style=flat-square)
-
-</div>
+- 🤖 AI/ML Engineering
+- 💻 Full-Stack Development
+- 👁️ Computer Vision
+- 🧠 Deep Learning
+- 📊 Data Analytics
 
 ---
 
-## 🌿 Personal Interests
+## 🎨 Personal Interests
 
-- 🎧 Music and discovering songs for every mood
-- 🎨 Drawing and creative expression
-- 🌱 Nature and peaceful landscapes
-- 💃 Dance and choreography
-- 🎾 Tennis and teamwork
-- 💡 Exploring new ideas and learning new things
+- 🎵 Music
+- 🎨 Drawing
+- 🌿 Exploring nature
+- 💃 Dance
+- 🎾 Tennis
+- 💡 Exploring new ideas
 
 ---
 
@@ -69,109 +46,95 @@ I believe in learning by building, improving through experimentation, and stayin
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
-### AI & Data Science
+### AI, Machine Learning & Data Science
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
 
 ### Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
 
 ### Databases & Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🤖 Machine Learning algorithms and model development
-- 👁️ Computer Vision and image processing
-- 🧠 Deep Learning and neural networks
-- 🌐 Full-Stack application development
-- 🔌 Backend APIs and database integration
-- 🧩 Data Structures, Algorithms, and problem-solving
+- Advanced Machine Learning concepts
+- Deep Learning and Computer Vision
+- Full-stack application development
+- Data analysis and interpretation
+- Building and deploying practical AI applications
 
 ---
 
-## 💭 My Developer Mindset
+## 🧩 My Developer Mindset
 
-- 🔍 Stay curious and ask better questions.
-- 🧪 Experiment, test, and learn from mistakes.
-- 🧩 Break complex problems into smaller steps.
-- 🤝 Learn through collaboration and shared ideas.
-- 🚀 Focus on progress, not perfection.
-
-> "Great things are built one small improvement at a time."
-
----
-
-## 🚀 My Goals
-
-- [ ] Strengthen my foundations in AI and Machine Learning
-- [ ] Build practical AI-powered applications
-- [ ] Improve my Full-Stack Development skills
-- [ ] Practise coding problems consistently
-- [ ] Contribute to collaborative development projects
-- [ ] Explore new technologies and approaches
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=jifan-jinershaa&show_icons=true&theme=transparent&hide_border=true&title_color=BC8CFF&icon_color=BC8CFF"
-  height="165"
-  alt="GitHub statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jifan-jinershaa&layout=compact&theme=transparent&hide_border=true&title_color=BC8CFF"
-  height="165"
-  alt="Most used programming languages"
-/>
-
-</div>
+- **Build** — Turn ideas into practical projects.
+- **Learn** — Understand concepts and explore new technologies.
+- **Explore** — Experiment, ask questions, and try different approaches.
+- **Grow** — Learn from challenges and improve continuously.
 
 ---
 
 <div align="center">
 
-*BUILD · LEARN · EXPLORE · GROW*
+  ### Build. Learn. Explore. Grow.
 
-<br/>
+  <br/>
 
-<a href="https://www.linkedin.com/in/jifan-jinersha-j-c-9261a3324">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="24" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:jifanjinesha@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" alt="Email"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/jifan-jinershaa">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="24" alt="GitHub"/>
-</a>
+  <a href="https://www.linkedin.com/in/jifan-jinersha-j-c-9261a3324">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:jifanjinesha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/jifan-jinershaa">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- GitHub Statistics -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jifan-jinershaa&show_icons=true&theme=transparent&hide_border=true&title_color=BC8CFF&icon_color=BC8CFF"
+    alt="GitHub Statistics"
+  />
+
+  <br/>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jifan-jinershaa&layout=compact&theme=transparent&hide_border=true&title_color=BC8CFF"
+    alt="Most Used Languages"
+  />
 
 </div>
-
