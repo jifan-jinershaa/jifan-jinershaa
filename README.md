@@ -3,19 +3,22 @@
     <img src="banner.png" width="100%"/>
   </a>
 </div>
-<!-- ================= CONTACT LINKS ================= -->
+
+<!-- ================= CONTACT ICONS ================= -->
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/jifan-jinersha-j-c-9261a3324">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jifanjinesha@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/jifan-jinershaa">
-    <img src="https://img.shields.io/badge/GITHUB-PROFILE-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<a href="https://www.linkedin.com/in/jifan-jinersha-j-c-9261a3324">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:jifanjinesha@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/jifan-jinershaa">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="30" alt="GitHub"/>
+</a>
 
 </div>
 
@@ -53,17 +56,12 @@ I believe in learning by building, improving through experimentation, and stayin
 
 ## 🌿 Personal Interests
 
-<div align="center">
-
-| 🎧 Music | 🎨 Drawing | 🌱 Nature |
-|:---:|:---:|:---:|
-| My everyday soundtrack | Creativity through art | Inspiration outdoors |
-
-| 💃 Dance | 🎾 Tennis | 💡 Exploring |
-|:---:|:---:|:---:|
-| Expression through movement | Practice and teamwork | Discovering new ideas |
-
-</div>
+- 🎧 Music and discovering songs for every mood
+- 🎨 Drawing and creative expression
+- 🌱 Nature and peaceful landscapes
+- 💃 Dance and choreography
+- 🎾 Tennis and teamwork
+- 💡 Exploring new ideas and learning new things
 
 ---
 
@@ -157,44 +155,23 @@ I believe in learning by building, improving through experimentation, and stayin
 
 ---
 
-## 📈 Contribution Activity
-
 <div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=jifan-jinershaa&theme=github-compact&hide_border=true&area=true"
-  width="100%"
-  alt="GitHub contribution activity"
-/>
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jifan-jinersha-j-c-9261a3324">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:jifanjinesha@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://github.com/jifan-jinershaa">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ✦ Thanks for visiting my corner of GitHub ✦
 
 *BUILD · LEARN · EXPLORE · GROW*
 
+<br/>
+
+<a href="https://www.linkedin.com/in/jifan-jinersha-j-c-9261a3324">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="24" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:jifanjinesha@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/jifan-jinershaa">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="24" alt="GitHub"/>
+</a>
+
 </div>
+
