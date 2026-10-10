@@ -1,10 +1,12 @@
 
 <div align="center">
 
+  <!-- Profile Banner -->
   <img src="./banner.png" width="100%" alt="Jifan Jinersha — AI & ML"/>
 
   <br/><br/>
 
+  <!-- Social Links -->
   <a href="https://www.linkedin.com/in/jifan-jinersha-j-c-9261a3324">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -19,63 +21,64 @@
 
   <br/><br/>
 
-  <strong>AI/ML Engineering · Full-Stack Development · Computer Vision · Deep Learning · Data Analytics</strong>
+  <strong>🤖 AI/ML Engineering · 💻 Full-Stack Development · 👁️ Computer Vision · 🧠 Deep Learning · 📊 Data Analytics</strong>
 
-  <p><i>Turning curiosity into code and ideas into intelligent solutions.</i></p>
+  <p><em>✨ Turning curiosity into code and ideas into intelligent solutions.</em></p>
 
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I'm **Jifan Jinersha**, a Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning** at **Thiagarajar College of Engineering** (2024–2028).
+Hey there! I'm **Jifan Jinersha**, a Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning** at **Thiagarajar College of Engineering** (2024–2028).
 
-I'm interested in building practical software, exploring intelligent systems, and applying AI and data-driven approaches to real-world challenges. I enjoy learning through experimentation, developing projects, and understanding how technology works beyond the surface.
+I'm passionate about exploring intelligent systems, building practical software, and applying technology to real-world challenges. I enjoy experimenting with new ideas, developing projects, and continuously improving my technical skills.
 
-- **Education:** B.E. Computer Science and Engineering — AI & ML
-- **Focus:** Intelligent systems and machine learning applications
-- **Development:** Full-stack applications and software engineering
-- **Approach:** Learn continuously, build practically, and improve iteratively
+- 🎓 **Education:** B.E. Computer Science and Engineering — AI & ML
+- 🤖 **Focus:** Intelligent systems and machine learning applications
+- 💻 **Development:** Full-stack applications and software engineering
+- 🔬 **Interests:** Computer vision, deep learning, and data analytics
+- 🌱 **Mindset:** Learn continuously, build practically, and improve iteratively
 
 ---
 
-## Professional Interests
+## 💡 Professional Interests
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>AI/ML Engineering</h3>
-      Exploring machine learning techniques and building intelligent applications.
+      <h3>🤖 AI/ML Engineering</h3>
+      Exploring machine learning techniques and developing intelligent applications.
     </td>
     <td width="50%" valign="top">
-      <h3>Full-Stack Development</h3>
-      Developing web applications with functional backends and intuitive interfaces.
+      <h3>💻 Full-Stack Development</h3>
+      Building web applications with intuitive interfaces and functional backends.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Computer Vision</h3>
+      <h3>👁️ Computer Vision</h3>
       Exploring image processing and visual recognition using AI.
     </td>
     <td width="50%" valign="top">
-      <h3>Deep Learning</h3>
+      <h3>🧠 Deep Learning</h3>
       Learning neural networks and their applications to complex problems.
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>Data Analytics</h3>
-      Analyzing data to identify patterns, extract insights, and support informed decisions.
+      <h3>📊 Data Analytics</h3>
+      Analyzing data to identify patterns, discover insights, and support informed decisions.
     </td>
   </tr>
 </table>
 
 ---
 
-## Technical Toolkit
+## 🛠️ Technical Toolkit
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -84,7 +87,7 @@ I'm interested in building practical software, exploring intelligent systems, an
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### AI, Machine Learning & Data Science
+### 🤖 AI, Machine Learning & Data Science
 
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -92,7 +95,7 @@ I'm interested in building practical software, exploring intelligent systems, an
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
-### Frontend & Backend Development
+### 🌐 Frontend & Backend Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -103,7 +106,7 @@ I'm interested in building practical software, exploring intelligent systems, an
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
-### Databases & Developer Tools
+### 🗄️ Databases & Developer Tools
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -116,44 +119,46 @@ I'm interested in building practical software, exploring intelligent systems, an
 
 ---
 
-## Currently Exploring
+## 🌱 Currently Exploring
 
-- Strengthening my understanding of machine learning and neural networks
-- Exploring computer vision and image-based AI applications
-- Building full-stack applications with modern frameworks
-- Improving data analysis and interpretation skills
-- Learning to deploy and maintain practical software applications
-
----
-
-## Beyond the Code
-
-Outside development, I enjoy music, drawing, exploring nature, dancing, playing tennis, and discovering new ideas.
-
-I value creativity, curiosity, consistency, and learning through experience.
+- 🧠 Strengthening my understanding of machine learning and neural networks
+- 👁️ Exploring computer vision and image-based AI applications
+- 🌐 Building full-stack applications with modern frameworks
+- 📈 Improving data analysis and interpretation skills
+- ☁️ Learning to deploy and maintain practical software applications
 
 ---
 
-## My Development Philosophy
+## 🎨 Beyond the Code
+
+When I'm not coding, you'll probably find me enjoying music, drawing, exploring nature, dancing, playing tennis, or discovering new ideas.
+
+🎵 Music · 🎨 Drawing · 🌿 Nature · 💃 Dance · 🎾 Tennis · 💡 Creativity
+
+I believe creativity and curiosity are just as important as technical skills.
+
+---
+
+## 🚀 My Development Philosophy
 
 <div align="center">
 
   <table>
     <tr>
       <td align="center" width="25%">
-        <h3>Build</h3>
+        <h3>✨ Build</h3>
         Turn ideas into working solutions.
       </td>
       <td align="center" width="25%">
-        <h3>Learn</h3>
+        <h3>📚 Learn</h3>
         Strengthen fundamentals and explore technologies.
       </td>
       <td align="center" width="25%">
-        <h3>Explore</h3>
+        <h3>🔍 Explore</h3>
         Experiment, question, and discover.
       </td>
       <td align="center" width="25%">
-        <h3>Grow</h3>
+        <h3>🌱 Grow</h3>
         Improve through practice and feedback.
       </td>
     </tr>
@@ -163,7 +168,7 @@ I value creativity, curiosity, consistency, and learning through experience.
 
 ---
 
-## GitHub Insights
+## 📊 GitHub Insights
 
 <div align="center">
 
@@ -187,9 +192,11 @@ I value creativity, curiosity, consistency, and learning through experience.
 
 <div align="center">
 
-  <h3>Build. Learn. Explore. Grow.</h3>
+  <h3>✨ Build. Learn. Explore. Grow. ✨</h3>
 
-  <p><i>Curious by nature. Building with purpose. Growing through every iteration.</i></p>
+  <p><em>Curious by nature. Building with purpose. Growing through every iteration.</em></p>
+
+  <br/>
 
   <a href="https://www.linkedin.com/in/jifan-jinersha-j-c-9261a3324">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
